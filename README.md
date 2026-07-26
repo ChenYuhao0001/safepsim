@@ -17,7 +17,7 @@
 
 | File | Purpose |
 |---|---|
-| `simulationcommon_3_CDG_PF.py` | Models the platoon dynamics under the Predecessor-Following topology and Constant Distance Gap spacing policy. |
+| `simulationcommon_3_CDG_PF.py` | Models the platoon dynamics under the Predecessor Following topology and Constant Distance Gap spacing policy. |
 | `simulate_generate_distance_plots_d'min_vs_fuelsaving_CDG_PF.py` | Evaluates the relationship between platoon safety and average fuel savings under the Constant Distance Gap policy. |
 
 ### `CTG_PF`
