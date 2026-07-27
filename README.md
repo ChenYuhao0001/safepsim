@@ -230,11 +230,6 @@ Theorem7_probability_analysis/
 
 The simulations may also create `.npy` or `.npz` cache files. Existing cached results can be reused to avoid repeating computationally expensive simulations.
 
-# Related Paper
-
-This repository accompanies:
-
-> Yuhao Chen and Ahmet Cetinkaya, “A Simulation Framework with Guaranteed Error Bounds for Safety and Fuel-Efficiency Analysis of Vehicle Platoons.”
 
 # License
 
